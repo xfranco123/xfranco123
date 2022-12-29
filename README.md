@@ -1,4 +1,5 @@
-![tEh4tFkBNj](https://user-images.githubusercontent.com/119545271/208677852-a260ecdf-3806-492b-8a50-7297770536af.png)
+![xwAEREF2yr](https://user-images.githubusercontent.com/119545271/210017257-110d0061-a748-45e9-84e0-7ad479e825bf.png)
+
 
 <h1 align="center">Hi 👋, I'm Franco Lordi</h1>
 <h3 align="center">A passionate frontend developer from Argentina</h3>
